@@ -36,14 +36,3 @@ This approach helps reduce long legal documents into readable summaries while pr
 
 ---
 
-## ⭐ Optional: Add Sample Input & Output (very impressive)
-If you want, you can also add this:
-
-```md
-## 📄 Sample Input and Output
-
-**Input:**  
-A long legal document containing terms, clauses, and agreements.
-
-**Output:**  
-A short, meaningful summary highlighting the key legal points.
